@@ -7,4 +7,3 @@ MDA in EDEM Escuela de Empresarios (2020-2021)
 ![Alt Text](https://www.eduopinions.com/wp-content/uploads/2017/04/edem-logo.png)
 
 https://edem.eu/master-data-analytics/
-
