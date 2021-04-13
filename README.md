@@ -1,5 +1,5 @@
 # Master Data Analytics
-MDA in EDEM Escuela de Empresarios (2020-2021)
+MDA at EDEM Escuela de Empresarios (2020-2021)
 
 ## Carlos Donoso Cabero
 ### *LinkedIn:* www.linkedin.com/in/carlosdonoso-cd
